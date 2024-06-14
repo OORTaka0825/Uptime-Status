@@ -21,15 +21,15 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '  😁博客',
+      text: '   📖博客',
       url: 'https://oortaka.top'
     },
     {
-      text: ' 😂GitHub',
+      text: '  🐼GitHub',
       url: 'https://github.com/OORTaka0825/Uptime-Status'
     },
     {
-      text: ' 🤣邮箱',
+      text: '  📧邮箱',
       url: 'https://mail.google.com/mail/?view=cm&fs=1&to=oortaka0825@gmail.com'
     },
   ],
