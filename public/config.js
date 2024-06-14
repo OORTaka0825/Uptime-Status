@@ -7,7 +7,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur1078385-b9802a0868414b8a975d5038',
+    'ur2581155-3bcb88a1571a6f66a55ca245',
   ],
 
     // 日志天数
@@ -21,16 +21,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '主页',
-      url: 'https://tjys.tk'
-    },
-    {
       text: '博客',
-      url: 'https://blog.qikaile.tk'
+      url: 'https://oortaka.top'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      url: 'https://github.com/OORTaka0825/Uptime-Status'
+    },
+    {
+      text: '邮箱',
+      url: 'https://mail.google.com/mail/?view=cm&fs=1&to=oortaka0825@gmail.com'
     },
   ],
 };
